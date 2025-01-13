@@ -190,8 +190,8 @@ def main():
     # plot_dice_sums_histogram(sums)
     # print("------------------------------------------------------------------------------------------")
     print("Expected value of one dice is : 3.5")
-    print(Expected_Value_x1)
-    print(Expected_Value_x2)
+    print("Expected value of x1: ", Expected_Value_x1)
+    print("Expected value of x2: ", Expected_Value_x2)
     # plot_expected_values(Expected_Value_x1, Expected_Value_x2)
     # print("------------------------------------------------------------------------------------------")
 
